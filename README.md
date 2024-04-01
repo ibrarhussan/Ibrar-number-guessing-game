@@ -1,2 +1,1 @@
-# Ibrar-number-guessing-game
-number guessing game assignment
+# CLI-number-guessing-gam-01e
